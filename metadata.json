@@ -1,0 +1,5 @@
+{
+  "name": "Simple Calculator",
+  "description": "A classic, elegant calculator application fixed at 400x600 pixels.",
+  "requestFramePermissions": []
+}
